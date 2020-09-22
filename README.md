@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nuxt-app
 
 ## Build Setup
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nuxt-app
+>>>>>>> 9e60c80c702d30f9de11b1d2b327cb61ca439ca2
